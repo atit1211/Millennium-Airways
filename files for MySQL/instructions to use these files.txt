@@ -1,0 +1,2 @@
+1.import these .csv file to a MySQL schema named airlines
+2.name the tables by the name of their files itself
