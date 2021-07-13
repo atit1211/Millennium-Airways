@@ -1,0 +1,2 @@
+to compile :- javac -cp ".;./mysql-connector-java-8.0.19.jar" Start.java
+to run :- java -cp ".;./mysql-connector-java-8.0.19.jar" Start
